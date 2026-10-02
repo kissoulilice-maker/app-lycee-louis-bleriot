@@ -2,35 +2,28 @@
 
 Application Android créée pour le Lycée Louis Blériot.
 
-## but de l'application
+## But de l'application
 
-L'application permet d'avoir un accès direct au site officiel du lycée depuis le téléphone.
+### Accès au site officiel du lycée
 
-Elle permet aussi de réviser les différentes filières avec des QCM.
-
-## QCM disponibles
+### Révision pour les différentes filières avec des QCM
 
 Les QCM sont organisés par filière.
 
-### Bac Pro CIEL
+### QCM disponibles
 
-Pour l'instant, c'est la seule filière disponible dans l'application.
+- **Bac Pro CIEL**
+  - Réseaux
+  - Cybersécurité
+  - Programmation
+  - Systèmes
+  - Électronique
 
-Les 5 parties du QCM sont :
+- **Bac Pro MELEC**
+  - QCM à venir
 
-- Réseaux
-- Cybersécurité
-- Programmation
-- Systèmes
-- Électronique
-
-### Bac Pro MELEC
-
-QCM à venir.
-
-### CS Cybersécurité
-
-QCM à venir.
+- **CS Cybersécurité**
+  - QCM à venir
 
 ## Fonctionnalités
 
