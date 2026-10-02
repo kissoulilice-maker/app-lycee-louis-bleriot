@@ -4,7 +4,7 @@ Application Android réalisée dans le cadre de ma formation CIEL au Lycée Loui
 
 ## À quoi sert l'application ?
 
-Pour commencer, l'application permet de réviser avec des QCM sur plusieurs thèmes liés à la formation :
+L'application permet de réviser avec des QCM sur plusieurs thèmes :
 
 - Réseaux
 - Cybersécurité
@@ -12,7 +12,9 @@ Pour commencer, l'application permet de réviser avec des QCM sur plusieurs thè
 - Systèmes
 - CIEL / Électronique
 
-L'objectif est de pouvoir répondre aux questions, voir directement si la réponse est correcte et consulter une explication.
+Elle permet de répondre aux questions, voir la correction et consulter une explication.
+
+L'application contient également un accès direct au site officiel du lycée depuis le téléphone.
 
 ## Fonctionnalités
 
@@ -23,7 +25,11 @@ L'objectif est de pouvoir répondre aux questions, voir directement si la répon
 - Score à la fin du QCM
 - Meilleur score sauvegardé
 - Nombre de QCM réalisés
-- Interface Android en mode sombre
+- Accès direct au site officiel du lycée
+
+## Site officiel
+
+[Lycée Louis Blériot](https://lyc-bleriot-trappes.ac-versailles.fr/)
 
 ## Technologies utilisées
 
@@ -31,10 +37,6 @@ L'objectif est de pouvoir répondre aux questions, voir directement si la répon
 - Jetpack Compose
 - Android Studio
 - SharedPreferences
-
-## Site du lycée
-
-[Lycée Louis Blériot](https://lyc-bleriot-trappes.ac-versailles.fr/)
 
 ## Projet
 
