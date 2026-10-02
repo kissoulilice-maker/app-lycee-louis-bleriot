@@ -3,6 +3,7 @@
 Application Android créée pour le Lycée Louis Blériot.
 
 ## Lycée Louis Blériot
+Projet réalisé au Lycée Louis Blériot dans le cadre de ma formation en cybersécurité .
 
 ## Présentation de l'application
 
@@ -11,12 +12,6 @@ depuis un téléphone.
 
 Elle permet également de réviser les différentes filières avec des QCM.
 Les réponses sont corrigées directement et un score est affiché à la fin.
-
-## Projet
-
-Projet réalisé au Lycée Louis Blériot dans le cadre de ma formation.
-
-Version 1
 
 ## Dépôt GitHub du projet
 
