@@ -6,11 +6,13 @@ Application Android créée pour le Lycée Louis Blériot.
 
 ### Accès au site officiel du lycée
 
+https://lyc-bleriot-trappes.ac-versailles.fr/
+
 ### Révision pour les différentes filières avec des QCM
 
 Les QCM sont organisés par filière.
 
-#### QCM disponibles
+### QCM disponibles
 
 - **Bac Pro CIEL**
   - Réseaux
@@ -25,6 +27,9 @@ Les QCM sont organisés par filière.
 - **CS Cybersécurité**
   - QCM à venir
 
+- **Autres filières...**
+  - QCM à venir
+
 ## Fonctionnalités
 
 - Accès direct au site officiel du lycée
@@ -35,10 +40,6 @@ Les QCM sont organisés par filière.
 - Score final
 - Meilleur score sauvegardé
 - Nombre de QCM réalisés
-
-## Site du lycée
-
-https://lyc-bleriot-trappes.ac-versailles.fr/
 
 ## Technologies
 
