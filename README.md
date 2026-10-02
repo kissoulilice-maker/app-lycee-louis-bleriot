@@ -1,93 +1,43 @@
-# 🏫 App Lycée Louis Blériot
+# App Lycée Louis Blériot
 
-## 🎯 Un projet pour le lycée
+Application Android réalisée dans le cadre de ma formation CIEL au Lycée Louis Blériot.
 
-**App Lycée Louis Blériot** est une application Android développée pour répondre à des besoins du **Lycée Louis Blériot de Trappes**.
+## À quoi sert l'application ?
 
-L'objectif est de créer des outils numériques utiles aux élèves et à l'établissement.
+Pour commencer, l'application permet de réviser avec des QCM sur plusieurs thèmes liés à la formation :
 
-🌐 **Site officiel du lycée :**
-[Lycée Louis Blériot — site officiel](https://lyc-bleriot-trappes.ac-versailles.fr/?utm_source=chatgpt.com)
+- Réseaux
+- Cybersécurité
+- Programmation
+- Systèmes
+- CIEL / Électronique
 
----
+L'objectif est de pouvoir répondre aux questions, voir directement si la réponse est correcte et consulter une explication.
 
-## 📚 Projet 1 — Application de révision
+## Fonctionnalités
 
-Cette première application permet aux élèves de réviser différentes notions de la formation **CIEL** grâce à des **QCM interactifs**.
+- Choix d'une matière
+- Questions mélangées
+- Correction après chaque réponse
+- Explication de la réponse
+- Score à la fin du QCM
+- Meilleur score sauvegardé
+- Nombre de QCM réalisés
+- Interface Android en mode sombre
 
-### Fonctionnalités
+## Technologies utilisées
 
-* 📚 Révision des cours
-* ❓ QCM interactifs
-* 🌐 Réseaux
-* 🔐 Cybersécurité
-* 💻 Programmation
-* 🖥️ Systèmes
-* ⚡ CIEL / Électronique
-* ✅ Correction immédiate
-* 💡 Explications des réponses
-* 🏆 Résultat final
-* 📊 Sauvegarde des scores
-* 🔄 Possibilité de recommencer les QCM
+- Kotlin
+- Jetpack Compose
+- Android Studio
+- SharedPreferences
 
----
+## Site du lycée
 
-## 🏫 Objectif du projet
+[Lycée Louis Blériot](https://lyc-bleriot-trappes.ac-versailles.fr/)
 
-À terme, le projet a pour objectif de proposer **différents outils numériques utiles au Lycée Louis Blériot**, et pas uniquement des QCM.
+## Projet
 
-Cette première application constitue donc une première étape du projet.
+Projet réalisé au Lycée Louis Blériot dans le cadre de la formation CIEL.
 
----
-
-## 🛠️ Technologies utilisées
-
-* **Kotlin**
-* **Jetpack Compose**
-* **Material 3**
-* **Android Studio**
-* **SharedPreferences**
-
----
-
-## 🚀 Fonctionnement
-
-```text
-🏫 Lycée Louis Blériot
-        │
-        ▼
-📱 Application Android
-        │
-        ▼
-📚 Choix d'une matière
-        │
-        ▼
-❓ QCM
-        │
-        ▼
-✅ Correction
-        │
-        ▼
-💡 Explication
-        │
-        ▼
-🏆 Résultat
-```
-
----
-
-## 📌 Version
-
-**Projet 1 — Version 1 fonctionnelle**
-
-Première version fonctionnelle de l'application Android.
-
----
-
-## 👨‍💻 Contexte
-
-Projet réalisé dans le cadre de la formation :
-
-**CIEL — Cybersécurité, Informatique et réseaux, Électronique**
-
-**Lycée Louis Blériot — Trappes**
+Version actuelle : **V1**
