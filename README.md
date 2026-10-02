@@ -1,109 +1,93 @@
-# 📚 QCM Lycée Blériot
+# 🏫 App Lycée Louis Blériot
 
-Application Android de révision sous forme de QCM, développée dans le cadre de la formation **CIEL** au **Lycée Louis Blériot**.
+## 🎯 Un projet pour le lycée
 
-L'objectif est de permettre aux élèves de réviser différentes notions informatiques et électroniques grâce à des questionnaires courts et interactifs.
+**App Lycée Louis Blériot** est une application Android développée pour répondre à des besoins du **Lycée Louis Blériot de Trappes**.
+
+L'objectif est de créer des outils numériques utiles aux élèves et à l'établissement.
+
+🌐 **Site officiel du lycée :**
+[Lycée Louis Blériot — site officiel](https://lyc-bleriot-trappes.ac-versailles.fr/?utm_source=chatgpt.com)
 
 ---
 
-## 🚀 Fonctionnalités
+## 📚 Projet 1 — Application de révision
 
-- 📚 Sélection d'une matière
-- 🌐 QCM Réseaux
-- 🔐 QCM Cybersécurité
-- 💻 QCM Programmation
-- 🖥️ QCM Systèmes
-- ⚡ QCM CIEL / Électronique
-- 🔀 Questions mélangées à chaque partie
-- 📊 Barre de progression
-- ✅ Correction immédiate
-- 💡 Explication après chaque réponse
-- 🏆 Affichage du score final
-- 🎯 Calcul du pourcentage de réussite
-- 💾 Sauvegarde du meilleur score
-- 📈 Compteur de QCM réalisés
-- 🎨 Interface moderne en mode sombre
-- 📱 Interface adaptée à Android
+Cette première application permet aux élèves de réviser différentes notions de la formation **CIEL** grâce à des **QCM interactifs**.
+
+### Fonctionnalités
+
+* 📚 Révision des cours
+* ❓ QCM interactifs
+* 🌐 Réseaux
+* 🔐 Cybersécurité
+* 💻 Programmation
+* 🖥️ Systèmes
+* ⚡ CIEL / Électronique
+* ✅ Correction immédiate
+* 💡 Explications des réponses
+* 🏆 Résultat final
+* 📊 Sauvegarde des scores
+* 🔄 Possibilité de recommencer les QCM
+
+---
+
+## 🏫 Objectif du projet
+
+À terme, le projet a pour objectif de proposer **différents outils numériques utiles au Lycée Louis Blériot**, et pas uniquement des QCM.
+
+Cette première application constitue donc une première étape du projet.
 
 ---
 
 ## 🛠️ Technologies utilisées
 
-- **Kotlin**
-- **Jetpack Compose**
-- **Material 3**
-- **Android Studio**
-- **SharedPreferences**
+* **Kotlin**
+* **Jetpack Compose**
+* **Material 3**
+* **Android Studio**
+* **SharedPreferences**
 
 ---
 
-## 📖 Matières disponibles
-
-### 🌐 Réseaux
-
-Notions abordées :
-
-- Adresse IP
-- Adresses privées
-- Routeur
-- HTTPS
-- DHCP
-
-### 🔐 Cybersécurité
-
-Notions abordées :
-
-- Phishing
-- Mots de passe
-- Double authentification
-- Malware
-- Sauvegardes
-
-### 💻 Programmation
-
-Notions abordées :
-
-- Kotlin
-- Variables
-- Conditions
-- Android Studio
-- Commentaires
-
-### 🖥️ Systèmes
-
-Notions abordées :
-
-- Systèmes d'exploitation
-- Windows
-- Processeur
-- SSD
-- RAM
-
-### ⚡ CIEL / Électronique
-
-Notions abordées :
-
-- Tension électrique
-- Intensité
-- Résistance
-- Composants électroniques
-- Multimètre
-
----
-
-## 🎯 Fonctionnement
-
-L'utilisateur arrive sur l'écran d'accueil et peut lancer un QCM.
+## 🚀 Fonctionnement
 
 ```text
-🏠 Accueil
-     ↓
-📚 Choix de la matière
-     ↓
-❓ Questions
-     ↓
+🏫 Lycée Louis Blériot
+        │
+        ▼
+📱 Application Android
+        │
+        ▼
+📚 Choix d'une matière
+        │
+        ▼
+❓ QCM
+        │
+        ▼
 ✅ Correction
-     ↓
+        │
+        ▼
 💡 Explication
-     ↓
+        │
+        ▼
 🏆 Résultat
+```
+
+---
+
+## 📌 Version
+
+**Projet 1 — Version 1 fonctionnelle**
+
+Première version fonctionnelle de l'application Android.
+
+---
+
+## 👨‍💻 Contexte
+
+Projet réalisé dans le cadre de la formation :
+
+**CIEL — Cybersécurité, Informatique et réseaux, Électronique**
+
+**Lycée Louis Blériot — Trappes**
