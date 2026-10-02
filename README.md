@@ -19,7 +19,7 @@ le dépôt GitHub :
 
 **GitHub :** [app-lycee-louis-bleriot](https://github.com/TON-PSEUDO/app-lycee-louis-bleriot)
 
-## Accès au site officiel du lycée
+### Accès au site officiel du lycée
 
 **Site officiel :**  
 https://lyc-bleriot-trappes.ac-versailles.fr/
