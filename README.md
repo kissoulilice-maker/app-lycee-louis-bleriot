@@ -2,7 +2,7 @@
 
 Application Android créée pour le Lycée Louis Blériot.
 
-## Le but de l'application
+## but de l'application
 
 L'application permet d'avoir un accès direct au site officiel du lycée depuis le téléphone.
 
