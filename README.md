@@ -2,6 +2,15 @@
 
 Application Android créée pour le Lycée Louis Blériot.
 
+## Lycée Louis Blériot
+
+### Dépôt GitHub du projet
+
+Le code source et la documentation du projet sont disponibles sur
+le dépôt GitHub :
+
+**GitHub :** [app-lycee-louis-bleriot](https://github.com/TON-PSEUDO/app-lycee-louis-bleriot)
+
 ## But de l'application
 
 ### Accès au site officiel du lycée
