@@ -1,41 +1,48 @@
 # App Lycée Louis Blériot
 
-Application Android réalisée dans le cadre de ma formation CIEL au Lycée Louis Blériot.
+Application Android créée pour le Lycée Louis Blériot.
 
-## Le projet
+## Le but de l'application
 
-L'application a deux objectifs principaux :
+L'application sert principalement à avoir un accès rapide au site officiel du lycée directement depuis le téléphone.
 
-### 🏫 1. Accès au lycée
+Elle permet aussi de réviser sa filière avec des QCM.
 
-L'application permet d'accéder directement au **site officiel du Lycée Louis Blériot** depuis le téléphone.
+## Les formations
 
-### 📚 2. Réviser sa filière
+### Bac Pro CIEL
 
-L'application permet également de réviser les différentes notions de sa filière grâce à des QCM.
+Cybersécurité, Informatique et réseaux, Électronique.
 
-Pour la première version, les révisions portent notamment sur :
+Les 5 parties pour les révisions :
 
 - Réseaux
 - Cybersécurité
 - Programmation
 - Systèmes
-- CIEL / Électronique
+- Électronique
 
-## Fonctionnalités
+### Bac Pro MELEC
 
-- Accès direct au site officiel du lycée
-- QCM de révision
-- Questions mélangées
-- Correction immédiate
-- Explication des réponses
-- Score final
-- Meilleur score sauvegardé
-- Nombre de QCM réalisés
+Métiers de l'Électricité et de ses Environnements Connectés.
 
-## Site officiel
+### CS Cybersécurité
 
-[Lycée Louis Blériot](https://lyc-bleriot-trappes.ac-versailles.fr/)
+Certificat de spécialisation Cybersécurité.
+
+## Dans l'application
+
+- Accès au site du lycée
+- Révisions
+- QCM
+- Correction des réponses
+- Explications
+- Score
+- Meilleur score
+
+## Site du lycée
+
+https://lyc-bleriot-trappes.ac-versailles.fr/
 
 ## Technologies
 
@@ -46,6 +53,6 @@ Pour la première version, les révisions portent notamment sur :
 
 ## Projet
 
-Projet réalisé au **Lycée Louis Blériot**, dans le cadre de la formation **CIEL**.
+Projet réalisé au Lycée Louis Blériot dans le cadre de ma formation.
 
-Version : **V1**
+Version 1
