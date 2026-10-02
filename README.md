@@ -4,14 +4,28 @@ Application Android créée pour le Lycée Louis Blériot.
 
 ## Lycée Louis Blériot
 
-### Dépôt GitHub du projet
+## Présentation de l'application
+
+L'application permet d'accéder rapidement au site officiel du lycée
+depuis un téléphone.
+
+Elle permet également de réviser les différentes filières avec des QCM.
+Les réponses sont corrigées directement et un score est affiché à la fin.
+
+## Projet
+
+Projet réalisé au Lycée Louis Blériot dans le cadre de ma formation.
+
+Version 1
+
+## Dépôt GitHub du projet
 
 Le code source et la documentation du projet sont disponibles sur
 le dépôt GitHub :
 
 **GitHub :** [app-lycee-louis-bleriot](https://github.com/TON-PSEUDO/app-lycee-louis-bleriot)
 
-### Accès au site officiel du lycée
+## Accès au site officiel du lycée
 
 **Site officiel :**  
 https://lyc-bleriot-trappes.ac-versailles.fr/
@@ -46,19 +60,9 @@ Les QCM sont organisés par filière.
 - Meilleur score sauvegardé
 - Nombre de QCM réalisés
 
-## Site du lycée
-
-https://lyc-bleriot-trappes.ac-versailles.fr/
-
 ## Technologies
 
 - Kotlin
 - Jetpack Compose
 - Android Studio
 - SharedPreferences
-
-## Projet
-
-Projet réalisé au Lycée Louis Blériot dans le cadre de ma formation.
-
-Version 1
