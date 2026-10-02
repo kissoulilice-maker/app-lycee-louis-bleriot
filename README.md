@@ -11,15 +11,16 @@ le dépôt GitHub :
 
 **GitHub :** [app-lycee-louis-bleriot](https://github.com/TON-PSEUDO/app-lycee-louis-bleriot)
 
-## But de l'application
-
 ### Accès au site officiel du lycée
+
+**Site officiel :**  
+https://lyc-bleriot-trappes.ac-versailles.fr/
 
 ### Révision pour les différentes filières avec des QCM
 
 Les QCM sont organisés par filière.
 
-### QCM disponibles
+#### QCM disponibles
 
 - **Bac Pro CIEL**
   - Réseaux
