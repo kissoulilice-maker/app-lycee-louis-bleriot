@@ -7,7 +7,7 @@ Projet réalisé au Lycée Louis Blériot de Trappes dans le cadre de ma formati
 
 ## Présentation de l'application
 
-L'application permet de rendre disponible le lycée sur les site d'application mobile et d'accéder rapidement au site officiel du lycée depuis un téléphone.
+L'application permet de rendre disponible le lycée sur les sites d'application mobile et d'accéder rapidement au site officiel du lycée depuis un téléphone.
 
 Elle permet également de réviser les différentes filières avec des QCM.
 Les réponses sont corrigées directement et un score est affiché à la fin.
