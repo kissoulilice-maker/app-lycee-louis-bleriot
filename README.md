@@ -3,7 +3,7 @@
 Application Android créée pour le Lycée Louis Blériot.
 
 ## Lycée Louis Blériot
-Projet réalisé au Lycée Louis Blériot dans le cadre de ma formation en cybersécurité .
+Projet réalisé au Lycée Louis Blériot dans le cadre de ma formation en CS Cybersécurité .
 
 ## Présentation de l'application
 
